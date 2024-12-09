@@ -2,9 +2,9 @@ const axios = require("axios");
 const crypto = require("crypto");
 
 // Config thông tin ứng dụng từ Zalo
-const APP_ID = "3743580504765137994";
-const APP_SECRET = "xCSojwQMxGjmX3Ri8755";
-const TEMPLATE_ID = "376137";
+const APP_ID = "";
+const APP_SECRET = "";
+const TEMPLATE_ID = "";
 const ZALO_API_URL = "https://business.openapi.zalo.me/message/template";
 
 // Tạo chữ ký cho API Zalo
